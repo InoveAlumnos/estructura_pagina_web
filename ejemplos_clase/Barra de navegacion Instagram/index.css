@@ -1,0 +1,56 @@
+.border {
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.flex-father {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-children {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+}
+
+.flex-around {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav {
+  flex: 0.8;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+}
+
+.search {
+  flex: 0.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  gap: 15px;
+}
+
+.search > input {
+  outline: none;
+  background: none;
+  border: none;
+  font-size: 15px;
+  width: 50%;
+}
