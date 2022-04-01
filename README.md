@@ -10,7 +10,7 @@ __Ejemplos que el profesor mostrará en clase__\
 ejemplos_clase/
 
 __Ejercicios para que el alumno desarrolle lo visto en clase__\
-ejercicios_practica/<br>
+ejercicios_practica/
   
 # Consultas
 alumnos@inove.com.ar
