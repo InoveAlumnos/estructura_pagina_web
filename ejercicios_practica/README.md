@@ -6,11 +6,12 @@ Los pasos que debemos seguir para conseguir esta tarea, serán:
 
 - Generar el HTML pertinente para cada ejemplo
 - Tratar de replicar los ejemplos mostrados
+- Utilizar las imagenes dentro de images
 
 Finalmente te invitamos a que una vez que lo hallas logrado, dejes volar tu creatividad y generes otros ejemplos por tu cuenta o trates de integrar los ejemplos antes mostrados.
 
 ## Ejercicio 1
-Debe intentar replicar la siguiente imagen de referencia. ¡Ojo! Presete atención al tamaño que tiene la imagen del celular en la captura, ¿Cómo puede usted ajustar su tamaño para que sea parecido a la imagen a lograr?
+Debe intentar replicar la siguiente imagen de referencia. ¡Ojo! Preste atención al tamaño que tiene la imagen del celular en la captura, ¿Cómo puede usted ajustar su tamaño para que sea parecido a la imagen a lograr?
 
 ![ejercicio_1](ejercicio_1.jpg)
 
