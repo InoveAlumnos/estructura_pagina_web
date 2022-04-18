@@ -1,6 +1,6 @@
 # Ejercicio de profundización
 
-__NOTA:__ Se recuerda que los ejercicios de prfundizaci
+__NOTA:__ Se recuerda que los ejercicios de prfundización son para aquellas personas que puedan dedicarle más tiempo a practicar, son desafios extra. Lo idea es que puedan simpre completar primero los ejercicios de práctica y comprenderlos bien antes de hacer un ejercicio de profundización.
 
 Dentro de esta carpeta encontrará una página web de ejemplo "index.html".
 
