@@ -1,7 +1,6 @@
 # Ejercicio de profundización
 
-Dentro de esta carpeta encontrará una página web de ejemplo "index.html"
-- Card
+Dentro de esta carpeta encontrará una página web de ejemplo "index.html".
 
 Su misión, si decida aceptarla, es realizar un análisis al detalle del ejemplo y analizar su estructura.
 - Observe detalladamente con está estructurado el archivo HTML, utilice su explorador para ver como se organiza cada contenedor.
