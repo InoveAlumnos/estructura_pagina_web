@@ -11,7 +11,7 @@ Su misión, si decide aceptarla, es realizar un análisis al detalle del ejemplo
 
 Su misión, si decide aceptarla, es tomar el paint o cualquier editor de imágen que le resulte cómodo y armar un esquema de como se vería la página si estuviera organizada con CSS (resultado final). Deberá adjuntar a su mensaje en el campus la imagen resultante de como usted cree que se verá la página.
 
-Les dejamos un ejemplo totalmente genérico para que entienda lo que esperamos que pueda realizar de esta actividad:
+Les dejamos un ejemplo totalmente genérico para que entienda lo que esperamos que pueda realizar de esta actividad. La idea es que su imagen refleje el contenido o parte del contenido de la página (use su imaginación ^_^).
 
 ![ejemplo](ejemplo.jpg)
 
