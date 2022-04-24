@@ -7,11 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
-</body>
-</html>
 <h1>Producto:</h1>
-<img height="200" src="/imagenes/celular.png"/>
+<img height="200" src="./imagenes/celular.png"/>
 <p>$110000</p>
 <p>15% OFF</p>
 <p>Envio Gratis</p>
+    
+</body>
+</html>
