@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/images/html.png">
+    <title>Contacto</title>
+</head>
+<body>
+    <!-- Tengo que ir una carpeta para trás con ../ -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="tienda.html">Tienda</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h1>Contacto</h1>
+
+    <!-- Tabla -->
+    <table border="1" >
+        <!-- Fila -->
+        <tr>
+            <!-- Columnas -->
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Descripcion</th>
+        </tr>
+        <tr>
+            <!-- Filas -->
+            <td>Producto 1</td>
+            <td>$1000</td>
+            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ut.</td>
+        </tr>
+        <tr>
+            <td>Producto 2</td>
+            <td>$2000</td>
+            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ut.</td>
+        </tr>
+        <tr>
+            <td>Producto 3</td>
+            <td>$1000</td>
+            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ut.</td>
+        </tr>
+        <tr>
+            <td>Producto 4</td>
+            <td>$4000</td>
+            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, ut.</td>
+        </tr>
+    </table>
+    <br><br><br>    
+    <!-- No usar br, dar estilos con css -->
+    <!-- Formulario -->
+    <form >
+        <!-- Tenemos varios tipo de input -->
+        <div>
+            <label for="nombre">Nombre</label>
+            <input type="text" name="Nombre" placeholder="Ej:Juan" id="nombre">
+        </div>
+
+        <div>
+            <label for="apellido">Apellido</label>
+            <input type="text" name="Apellido" placeholder="Ej:Perez" id="apellido">
+        </div>
+
+        <div>
+            <label for="clave">Contraseña</label>
+            <input type="password" name="clave" id="clave">
+        </div> 
+
+        <div>
+            <label for="teléfono">Teléfono</label>
+            <input type="tel" name="telefono" id="telefono">
+        </div>
+
+        <div>
+            <label for="email">Correo Electronico</label>
+            <input type="email" name="email" id="email">
+        </div>
+
+        <div>
+            <label for="comentario">Comentario</label>
+            <textarea name="comentario" id="comentario" cols="20" rows="10"></textarea>
+        </div>
+
+        <div>
+            <label for="femenino">Femenino</label>
+            <input type="radio" name="genero" id="femenino" value="F">
+        </div>
+
+        <div>
+            <label for="masculino">Masculino</label>
+            <input type="radio" name="genero" id="masculino" value="M">
+        </div>
+
+        <div>
+            <select name="talles">
+                <option value="L">Large</option>
+                <option value="M">Medium</option>
+                <option value="S">Small</option>
+              </select>
+        </div>
+        
+        <div>
+            <label for="terminos">Aceptar Terminos y Condiciones</label>
+            <input type="checkbox" name="terminos" id="terminos">
+        </div>
+
+        <div>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpiar Formulario">
+        </div> 
+    </form>
+</body>
+</html>

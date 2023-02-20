@@ -29,6 +29,6 @@ Tome el ejercicio anterior y modifique su HTML para utilizar etiquetas semántic
 ![ejercicio_3](ejercicio_3.jpg)
 
 ## Ejercicio 4
-Basado en lo visto en clase, tome la estructura de la barra de nevación e incluyala en su HTML del ejercicio anterior dentro de una etiqueta "nav". El resultado final se deberá ver similar al siguiente:
+Basado en lo visto en clase, tome la estructura de la barra de nevación e incluyala en su HTML del ejercicio anterior dentro de una etiqueta "nav". Los elementos de la navbar deben estar organizados con una lsita. El resultado final se deberá ver similar al siguiente:
 
 ![ejercicio_4](ejercicio_4.jpg)

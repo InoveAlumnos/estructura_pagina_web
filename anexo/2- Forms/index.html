@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<body>
+  <h1>Página para prueba de formularios!</h1>
+  <p>Los formularios son fundamentales para enviar o solicitar información.
+      En ellos, determinamos una serie de campos que deben ser completados, y un botón que nos llevará a una página de
+      destino Los formularios por defecto son de tipo GET, pero también podemos especificar que sean POST.
+      El atributo "action" determina la página a la que queremos realizar el request.
+      El atributo "method" nos permite seleccionar el método POST.
+  </p>
+  
+  <h2>Formularios de tipo GET [por defecto]</h2>
+  <form action="/">
+      <label for="nombre">Nombre:</label><br>
+      <input type="text" id="nombre" name="Nombre" value="Leon"><br>
+      <label for="apellido">Apellido:</label><br>
+      <input type="text" id="apellido" name="Apellido" value="Kennedy"><br><br>
+      <input type="submit" value="Enviar">
+  </form>
+  
+  <h2>Formularios de tipo POST</h2>
+  <form action="/" method="POST">
+      <label for="nombre">Nombre:</label><br>
+      <input type="text" id="nombre" name="Nombre" value="Leon"><br>
+      <label for="apellido">Apellido:</label><br>
+      <input type="text" id="apellido" name="Apellido" value="Kennedy"><br><br>
+      <input type="submit" value="Enviar">
+  </form>
+  
+  <h2>Nota:</h2>
+  <p>Los forms tienen dentro etiquetas de tipo "label" e "input":</p>
+  <ul>
+      <li>label: Contiene el téxto del campo</li>
+      <li>input: Especifica el tipo de entrada, si es una caja de texto (text) o el botón para envio (submit)</li>
+  </ul>
+  <p>Para que vincular el "label" con el "input" debe especificarse el mismo valor para el atributo "id" en ambos.
+      El atributo "name" es EL NOMBRE DE LA VARIABLE QUE ENVIAREMOS POR EL REQUEST! y el atributo "value" es un valor por defecto.
+  </p>
+  
+  <p>Más información: <a href="https://www.w3schools.com/html/html_forms.asp">AQUÍ</a></p>
+
+</body>
