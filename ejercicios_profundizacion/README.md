@@ -11,9 +11,12 @@ Su misión, si decide aceptarla, es armar un sitio web de dos páginas:
 - Una página "experiencia.html" que hable sobre su experiencia en HTML & CSS.
 
 Les dejamos unos ejemplos de como debería verse su página:
+
+
 ![index.jgp](index.jpg)
 
 ![experiencia.jgp](experiencia.jpg)
+
 
 Deberá generar los archivos HTML mencionados
 
