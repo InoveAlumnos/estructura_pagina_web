@@ -15,8 +15,5 @@ ejercicios_practica/
 __Ejercicios para que el alumno profundice lo visto en clase__\
 ejercicios_profundizacion/
 
-__Ejercicios para que el alumno profundice lo visto en clase__\
-ejercicios_profundizacion/
-
 # Consultas
 alumnos@inove.com.ar
